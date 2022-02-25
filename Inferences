@@ -1,0 +1,2 @@
+We investigated the data, checking for data unbalancing, visualizing the features and understanding the relationship between different features. We Concluded with Random
+Forest Classifier, for which we obtained an AUC score of 0.65
